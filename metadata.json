@@ -1,0 +1,10 @@
+{
+    "description": "Automatically change input layout to primary on lock screen",
+    "name": "Primary Input on LockScreen",
+    "shell-version": [
+        "45"
+    ],
+    "url": "https://gitlab.com/sagidayan/primary-input-on-lockscreen",
+    "uuid": "primary_input_on_lockscreen@sagidayan.com",
+    "version": 6
+}
