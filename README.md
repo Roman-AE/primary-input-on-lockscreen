@@ -7,6 +7,8 @@
 Head over to [Gnome Extensions](https://extensions.gnome.org/extension/4727/primary-input-on-lockscreen/) 
 
 ## About
+This is version of original extension by Sagi (https://gitlab.com/sagidayan/primary-input-on-lockscreen) adapted to work in Gnome 45 (and later) only.
+
 This is a small simple extension that solves an annoying issue for me and some friends. 
 In case you are using more then one input layout, you could be typing your (super strong, long, smart) password 
 in the wrong layout.
